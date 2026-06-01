@@ -78,8 +78,7 @@ class MWilson:
 
 > **Available Immediately**
 >
-> 💼 Entry-level Python / Full Stack roles  
-> 📍 Chennai, Tamil Nadu  
+> 💼 Entry-level Python / Full Stack roles   
 > 📬 mwilson312002@gmail.com
 
 </td>
@@ -170,7 +169,7 @@ class MWilson:
 <tr>
 <td>
 
-**🏢 VDart Academy** &nbsp;·&nbsp; Full Stack Developer Intern &nbsp;·&nbsp; `Jan 2026 – Apr 2026` &nbsp;·&nbsp; Trichy, Tamil Nadu
+**🏢 VDart ** &nbsp;·&nbsp; Full Stack Developer Intern &nbsp;·&nbsp; `Jan 2026 – Apr 2026` &nbsp;·&nbsp; Trichy, Tamil Nadu
 
 </td>
 </tr>
@@ -348,7 +347,7 @@ class MWilson:
 | Degree | Institution | Period | Score |
 |:---|:---|:---:|:---:|
 | **Master of Computer Applications (MCA)** | M.A.M Business School, Anna University | 2024 – 2026 | **8.35 CGPA · Rank #3** |
-| B.A. English | Anna University Affiliated College | 2021 – 2024 | — |
+| B.A. English | Anna University Affiliated College | 2021 – 2024 | **8.50 CGPA - Rank #1** |
 
 </div>
 
@@ -400,7 +399,7 @@ class MWilson:
 
 <br><br>
 
-> 💼 **Actively seeking entry-level Python / Django / Full Stack Developer roles in Chennai, India.**
+> 💼 **Actively seeking entry-level Python / Django / Full Stack Developer roles .**
 >
 > I'm a fast learner, team player, and passionate about shipping production-grade software.
 > If you're hiring or want to collaborate — **let's connect!**
