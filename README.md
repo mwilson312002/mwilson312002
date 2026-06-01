@@ -1,12 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=M.%20Wilson&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Python%20Full%20Stack%20Developer%20%E2%80%94%20Django%20%C2%B7%20React.js%20%C2%B7%20FastAPI%20%C2%B7%20ML&descAlignY=60&descSize=15&stroke=38BDF8&strokeWidth=2)
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Crafting+scalable+backends+with+Django+%26+FastAPI;%E2%9A%9B%EF%B8%8F+Building+dynamic+UIs+with+React.js;%F0%9F%A7%A0+Solving+real+problems+with+Python+%26+ML;%F0%9F%8F%86+MCA+%7C+Anna+University+%7C+Rank+%233+%7C+CGPA+8.35;%E2%9C%A8+Available+for+Entry-Level+Roles+in+Chennai)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,50:0d1b2a,100:0a0a0f&height=200&section=header&text=M.%20WILSON&fontSize=64&fontColor=e2e8f0&animation=fadeIn&fontAlignY=45&desc=Python%20Full%20Stack%20Developer&descAlignY=68&descSize=17&fontAlign=50&stroke=334155&strokeWidth=1)
 
 </div>
 
@@ -14,373 +8,251 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilson-m-074831385)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mwilson312002)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mwilson312002@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=mwilson312002&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/mwilson312002)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=64748B&center=true&vCenter=true&width=700&lines=Django+%C2%B7+DRF+%C2%B7+FastAPI+%C2%B7+React.js+%C2%B7+MySQL+%C2%B7+Python;Building+scalable+REST+APIs+%26+full-stack+web+apps;MCA+%E2%80%94+Anna+University+%7C+CGPA+8.35+%7C+Rank+%233;Open+to+entry-level+roles+)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-wilson--m--074831385-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0f172a)](https://linkedin.com/in/wilson-m-074831385)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-mwilson312002-334155?style=flat&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/mwilson312002)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-mwilson312002%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=0f172a)](mailto:mwilson312002@gmail.com)&nbsp;&nbsp;
+[![Views](https://komarev.com/ghpvc/?username=mwilson312002&color=334155&style=flat&label=profile+views)](https://github.com/mwilson312002)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## ◈ Who Am I
-
-<table>
-<tr>
-<td width="55%">
+## `whoami`
 
 ```python
-#!/usr/bin/env python3
-# ─────────────────────────────────────────
-#   M. Wilson  ·  Python Full Stack Dev
-# ─────────────────────────────────────────
-
 class MWilson:
 
-    identity = {
-        "name"       : "M. Wilson",
-        "location"   : "Jayankondam, Tamil Nadu 🇮🇳",
-        "degree"     : "MCA · Anna University (2026)",
-        "cgpa"       : 8.35,
-        "rank"       : "🏆 3rd in Department",
-    }
+    name        = "M. Wilson"
+    location    = "Jayankondam, Tamil Nadu, India 🇮🇳"
+    degree      = "MCA — Anna University (2024–2026)"
+    cgpa        = 8.35
+    rank        = 3   # Department rank
 
     stack = {
-        "backend"    : ["Python", "Django", "DRF", "FastAPI"],
-        "frontend"   : ["React.js", "JavaScript", "Tailwind"],
-        "database"   : ["MySQL", "PostgreSQL"],
-        "devops"     : ["Git", "Docker", "Linux"],
-        "ml"         : ["scikit-learn", "pandas", "numpy"],
+        "languages" : ["Python", "JavaScript", "SQL"],
+        "backend"   : ["Django", "Django REST Framework", "FastAPI"],
+        "frontend"  : ["React.js", "HTML5", "CSS3", "Tailwind CSS"],
+        "database"  : ["MySQL", "PostgreSQL"],
+        "devops"    : ["Git", "GitHub", "Docker", "Linux"],
+        "ml"        : ["scikit-learn", "pandas", "numpy"],
     }
 
-    currently = [
-        "🐳 Docker + Containerisation",
-        "🏗️  System Design & Scalability",
-        "🐘 PostgreSQL Advanced Queries",
-        "🔐 OAuth2 & Security Hardening",
-    ]
+    learning    = ["Docker & Containerisation", "PostgreSQL Advanced Queries",
+                   "System Design Fundamentals", "OAuth2 & Security"]
 
-    def motto(self) -> str:
-        return "Build things that matter. Ship it. Improve it. 🚀"
+    available   = True  # Open to entry-level roles — Chennai preferred
 
-wilson = MWilson()
-print(wilson.motto())
+    def motto(self):
+        return "Build things that matter. Ship it. Improve it."
 ```
 
-</td>
-<td width="45%" align="center">
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" />
+## Skills
 
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=3B82F6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=EAB308)
+![SQL](https://img.shields.io/badge/SQL-0f172a?style=flat-square&logo=postgresql&logoColor=60A5FA)
+
+**Backend**
+
+![Django](https://img.shields.io/badge/Django-0f172a?style=flat-square&logo=django&logoColor=16A34A)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-0f172a?style=flat-square&logo=django&logoColor=EF4444)
+![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=flat-square&logo=fastapi&logoColor=10B981)
+![JWT](https://img.shields.io/badge/JWT_Auth-0f172a?style=flat-square&logo=jsonwebtokens&logoColor=94A3B8)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React.js-0f172a?style=flat-square&logo=react&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=flat-square&logo=html5&logoColor=F97316)
+![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=flat-square&logo=css3&logoColor=3B82F6)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=60A5FA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=818CF8)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=F97316)
+![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=E2E8F0)
+![Docker](https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=38BDF8)
+![Linux](https://img.shields.io/badge/Linux-0f172a?style=flat-square&logo=linux&logoColor=EAB308)
+![Postman](https://img.shields.io/badge/Postman-0f172a?style=flat-square&logo=postman&logoColor=F97316)
+![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=flat-square&logo=visualstudiocode&logoColor=38BDF8)
+
+**Machine Learning**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0f172a?style=flat-square&logo=scikitlearn&logoColor=F97316)
+![NumPy](https://img.shields.io/badge/NumPy-0f172a?style=flat-square&logo=numpy&logoColor=60A5FA)
+![Pandas](https://img.shields.io/badge/Pandas-0f172a?style=flat-square&logo=pandas&logoColor=818CF8)
+
+---
+
+## Numbers
+
+<div align="center">
+
+| Metric | Value |
+|:--|:--|
+| 🎓 CGPA | **8.35 / 10** |
+| 🏆 Department Rank | **#3 — MCA, Anna University** |
+| 🔧 REST APIs Built | **8+ (DRF & FastAPI)** |
+| 🗄️ Records Managed | **500+** |
+| ⚡ Efficiency Gain | **60% reduction in admin task time** |
+| 🗓️ Internship | **4 months — VDart Academy, Trichy** |
+
+</div>
+
+---
+
+## Work Experience
+
+### VDart Academy — Full Stack Developer Intern
+`Jan 2026 – Apr 2026` · Trichy, Tamil Nadu
+
+- Built responsive frontend modules using **React.js** and **JavaScript** across multiple SDLC sprint cycles
+- Engineered **8+ REST APIs** with **Django REST Framework** and **FastAPI** for dynamic data communication across modules
+- Managed **MySQL** database operations handling **500+ records** via ORM and optimised SQL queries
+- Participated in end-to-end debugging, Git version control, and team-based sprint reviews
+
+---
+
+## Projects
+
+<details open>
+<summary><b>Smart Intern Management System</b> &nbsp;·&nbsp; <code>React.js</code> <code>DRF</code> <code>MySQL</code> <code>JWT</code></summary>
 <br/>
 
-> 🔭 **Building** full-stack web apps with Django & React.js  
-> 🌱 **Exploring** Docker, PostgreSQL, scalable API design  
-> 💼 **Open to** entry-level Python / Django developer roles  
-> 📬 **Mail:** mwilson312002@gmail.com  
-> 🗣️ **Languages:** English · Tamil  
+Full-stack platform for tracking intern attendance, performance, and activities across teams.
 
-</td>
-</tr>
-</table>
+- Built and consumed **REST APIs** managing **500+ intern records**
+- Role-based **JWT authentication** for admin and intern portals
+- Reduced manual attendance tracking time by **60%**
 
----
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/mwilson312002)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## ◈ Tech Arsenal
-
-<div align="center">
-
-### ⚡ Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### ⚙️ Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-FF1709?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-### 🤖 Machine Learning
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-</div>
+</details>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<details>
+<summary><b>Smart Parking Management System</b> &nbsp;·&nbsp; <code>FastAPI</code> <code>MySQL</code> <code>HTML</code> <code>JavaScript</code></summary>
+<br/>
 
-## ◈ Impact Numbers
+Vehicle entry/exit tracking and slot allocation for a parking facility.
 
-<div align="center">
+- Supports **200+ vehicle entries** per day with automated record management
+- FastAPI backend with structured slot allocation logic
+- Reduced manual logging time by **50%**
 
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/CGPA-8.35%2F10-38BDF8?style=for-the-badge" /><br/>
-      <sub><b>Academic Excellence</b></sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/RANK-%233%20Dept-F472B6?style=for-the-badge" /><br/>
-      <sub><b>Departmental Rank</b></sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/APIs-8%2B%20Built-A78BFA?style=for-the-badge" /><br/>
-      <sub><b>REST APIs Engineered</b></sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Records-500%2B%20Managed-34D399?style=for-the-badge" /><br/>
-      <sub><b>DB Operations</b></sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Efficiency-60%25%20Gain-FB923C?style=for-the-badge" /><br/>
-      <sub><b>Process Improvement</b></sub>
-    </td>
-  </tr>
-</table>
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/mwilson312002)
 
-</div>
+</details>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<details>
+<summary><b>Phishing URL Detection System</b> &nbsp;·&nbsp; <code>Python</code> <code>scikit-learn</code> <code>pandas</code></summary>
+<br/>
 
-## ◈ GitHub Analytics
+ML classification model for detecting phishing URLs.
+
+- Feature engineering on HTTPS status, domain structure, URL length, and suspicious patterns
+- Binary classification with performance evaluation metrics
+- Supports real-world cybersecurity threat analysis and reporting
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/mwilson312002)
+
+</details>
+
+---
+
+<details>
+<summary><b>Personal Portfolio Website</b> &nbsp;·&nbsp; <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code></summary>
+<br/>
+
+Cinematic developer portfolio with animated UI, dark/light mode, and interactive data visualisations.
+
+- Particle background, custom cursor, and typewriter hero animation
+- Canvas-based **skill radar chart** and **3D tilt project cards**
+- Animated achievement counters — live on local Python server
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/mwilson312002)
+
+</details>
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/mwilson312002">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mwilson312002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=a78bfa&text_color=c9d1d9&border_radius=12&ring_color=38bdf8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mwilson312002&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=e2e8f0&icon_color=60a5fa&text_color=94a3b8&border_radius=8" />
 </a>
 <a href="https://github.com/mwilson312002">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwilson312002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8&border_radius=12" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwilson312002&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=94a3b8&langs_count=8&border_radius=8" />
 </a>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mwilson312002&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=34D399&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com?user=mwilson312002&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=E2E8F0&sideLabels=94A3B8&dates=475569&currStreakNum=E2E8F0&sideNums=E2E8F0&stroke=0D1117&border_radius=8)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mwilson312002&theme=tokyo-night&bg_color=0d1117&color=38bdf8&line=a78bfa&point=34d399&area=true&hide_border=true&area_color=38bdf820)](https://github.com/mwilson312002)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mwilson312002&theme=github-compact&bg_color=0d1117&color=94a3b8&line=3b82f6&point=60a5fa&area=true&hide_border=true&area_color=1e3a5f)](https://github.com/mwilson312002)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## Education
 
-## ◈ Trophy Wall
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=mwilson312002&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6)](https://github.com/mwilson312002)
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## ◈ Work Experience
-
-<table>
-<tr>
-<td>
-
-### 🏢 VDart Academy — Full Stack Developer Intern
-**📅 Jan 2026 – Apr 2026 &nbsp;|&nbsp; 📍 Trichy, Tamil Nadu**
-
-`React.js` `Django REST Framework` `FastAPI` `Python` `MySQL` `Git` `JWT` `SDLC`
-
-</td>
-</tr>
-<tr>
-<td>
-
-- ⚡ Developed responsive web application modules using **React.js, JavaScript, Python, and MySQL** across multiple sprint cycles
-- 🔧 Engineered **8+ REST APIs** with Django REST Framework and FastAPI, enabling dynamic data flow between frontend and backend
-- 🗄️ Managed **MySQL database operations** handling **500+ application records** through optimised ORM queries and raw SQL
-- 🔄 Participated in full-cycle **debugging, testing, Git version control**, and SDLC-aligned development sprints
-
-</td>
-</tr>
-</table>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## ◈ Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧑‍💼 Smart Intern Management System
-> *The project that cut admin time by 60%*
-
-![Stack](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Stack](https://img.shields.io/badge/DRF-FF1709?style=flat-square&logo=django&logoColor=white)
-![Stack](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Stack](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-Full-stack platform for intern **attendance, performance & activity tracking**. REST APIs manage **500+ intern records**. Eliminated manual attendance logs — slashing task time by **60%**.
-
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mwilson312002)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🅿️ Smart Parking Management System
-> *Automated vehicle tracking at scale*
-
-![Stack](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Stack](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Stack](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-Vehicle **entry/exit tracking & smart slot allocation** supporting **200+ vehicles daily**. Automated record-keeping reduced manual logging time by **50%**.
-
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mwilson312002)
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔐 Phishing URL Detection System
-> *ML-powered cybersecurity tool*
-
-![Stack](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Stack](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Stack](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-ML classification model detecting phishing URLs via **HTTPS status, domain structure & suspicious pattern** feature engineering. Supports real-world cybersecurity threat analysis.
-
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mwilson312002)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 Personal Portfolio Website
-> *Cinematic developer showcase*
-
-![Stack](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Stack](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Stack](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-Gold-and-black cinematic portfolio with animated particle background, custom cursor, typewriter hero, dark/light mode, Canvas radar chart, 3D tilt cards, and animated counters.
-
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mwilson312002)
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## ◈ Education
-
-<div align="center">
-
-| 🎓 Degree | 🏫 Institution | 📅 Year | 📊 Score |
-|-----------|---------------|---------|---------|
-| Master of Computer Applications (MCA) | M.A.M Business School, Anna University | 2024 – 2026 | **8.35 / 10 CGPA · Rank #3** |
+| Degree | Institution | Year | Grade |
+|:--|:--|:--|:--|
+| Master of Computer Applications | M.A.M Business School, Anna University | 2024 – 2026 | 8.35 CGPA · Rank #3 |
 | B.A. English | Anna University Affiliated College | 2021 – 2024 | — |
 
-</div>
-
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## ◈ Currently Levelling Up
-
-<div align="center">
+## Currently Learning
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                   🧭 LEARNING ROADMAP 2026                       ║
-╠══════════════════╦═══════════════════════════════════════════════╣
-║  🐳 Docker       ║  Containerisation · Docker Compose · Deploy  ║
-╠══════════════════╬═══════════════════════════════════════════════╣
-║  🐘 PostgreSQL   ║  Advanced Queries · Indexing · Perf Tuning   ║
-╠══════════════════╬═══════════════════════════════════════════════╣
-║  🏗️  Sys Design  ║  REST API Design · Scalability · Caching     ║
-╠══════════════════╬═══════════════════════════════════════════════╣
-║  ⚛️  React.js    ║  Hooks · Context API · State Management      ║
-╠══════════════════╬═══════════════════════════════════════════════╣
-║  🔐 Security     ║  JWT Best Practices · OAuth2 · HTTPS         ║
-╚══════════════════╩═══════════════════════════════════════════════╝
+Docker          →  Containerisation, Docker Compose, deployment workflows
+PostgreSQL      →  Advanced indexing, query planning, performance tuning
+System Design   →  REST API design, scalability patterns, caching strategies
+React.js        →  Hooks, Context API, advanced state management
+Security        →  OAuth2, JWT hardening, HTTPS best practices
 ```
 
-</div>
-
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## ◈ Let's Connect
 
 <div align="center">
 
-<a href="https://linkedin.com/in/wilson-m-074831385">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/mwilson312002">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-%23181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:mwilson312002@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach%20Out%20Directly-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+💼 **Actively seeking entry-level Python / Full Stack Developer roles in Chennai, India**
 
-<br/><br/>
+*Available immediately — let's build something together.*
 
-> 💼 **Actively seeking entry-level Python / Django / Full Stack Developer roles in Chennai, India.**  
-> I'm a fast learner, team player, and passionate about shipping production-grade software.  
-> If you're hiring or want to collaborate — **let's talk!** 🚀
+&nbsp;
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilson-m-074831385)&nbsp;
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mwilson312002@gmail.com)
 
 </div>
 
@@ -388,12 +260,8 @@ Gold-and-black cinematic portfolio with animated particle background, custom cur
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+![Footer](https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,50:0d1b2a,100:0a0a0f&height=80&section=footer&fontColor=475569&animation=fadeIn)
 
-<br/><br/>
-
-*✦ &nbsp; Build things that matter. Ship it. Improve it. &nbsp; ✦*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling)
+<sub>M. Wilson · Python Full Stack Developer · mwilson312002@gmail.com</sub>
 
 </div>
