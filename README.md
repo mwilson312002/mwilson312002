@@ -63,7 +63,7 @@ class MWilson:
         "OAuth2 & Security Hardening",
     ]
 
-    open_to_work = True  # ← Chennai preferred
+    open_to_work = True  
 
     def __str__(self):
         return "Build things that matter. Ship it. Improve it. 🚀"
