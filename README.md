@@ -63,7 +63,7 @@ class MWilson:
         "OAuth2 & Security Hardening",
     ]
 
-    open_to_work = True  
+    open_to_work = True  # ← Chennai preferred
 
     def __str__(self):
         return "Build things that matter. Ship it. Improve it. 🚀"
@@ -78,7 +78,8 @@ class MWilson:
 
 > **Available Immediately**
 >
-> 💼 Entry-level Python / Full Stack roles   
+> 💼 Entry-level Python / Full Stack roles  
+> 📍 Chennai, Tamil Nadu  
 > 📬 mwilson312002@gmail.com
 
 </td>
@@ -169,7 +170,7 @@ class MWilson:
 <tr>
 <td>
 
-**🏢 VDart ** &nbsp;·&nbsp; Full Stack Developer Intern &nbsp;·&nbsp; `Jan 2026 – Apr 2026` &nbsp;·&nbsp; Trichy, Tamil Nadu
+**🏢 VDart Academy** &nbsp;·&nbsp; Full Stack Developer Intern &nbsp;·&nbsp; `Jan 2026 – Apr 2026` &nbsp;·&nbsp; Trichy, Tamil Nadu
 
 </td>
 </tr>
@@ -347,7 +348,25 @@ class MWilson:
 | Degree | Institution | Period | Score |
 |:---|:---|:---:|:---:|
 | **Master of Computer Applications (MCA)** | M.A.M Business School, Anna University | 2024 – 2026 | **8.35 CGPA · Rank #3** |
-| B.A. English | Anna University Affiliated College | 2021 – 2024 | **8.50 CGPA - Rank #1** |
+| B.A. English | Anna University Affiliated College | 2021 – 2024 | — |
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<br>
+
+## 🏅 &nbsp; Certifications
+
+<br>
+
+<div align="center">
+
+| Certification | Domain |
+|:---|:---:|
+| 🤖 Fundamentals of AI | Artificial Intelligence |
 
 </div>
 
@@ -399,7 +418,7 @@ class MWilson:
 
 <br><br>
 
-> 💼 **Actively seeking entry-level Python / Django / Full Stack Developer roles .**
+> 💼 **Actively seeking entry-level Python / Django / Full Stack Developer roles in Chennai, India.**
 >
 > I'm a fast learner, team player, and passionate about shipping production-grade software.
 > If you're hiring or want to collaborate — **let's connect!**
